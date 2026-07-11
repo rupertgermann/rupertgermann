@@ -1,36 +1,44 @@
 # Hi, I’m Rupert 👋
 
-I’m an open-source developer with a long background in **TYPO3**
-(maintainer of [`tt_news`](https://github.com/rupertgermann/tt_news) since 2004).
+I’m an open-source developer based in Düsseldorf, Germany. My roots are in
+**PHP and TYPO3**—I’ve maintained
+[`tt_news`](https://github.com/rupertgermann/tt_news) since 2004—and my current
+work explores what becomes possible when **AI is both part of the product and
+part of the development process**.
 
-Recently, my focus has shifted toward **AI-powered tools** —
-and toward **using AI as part of the development process itself**.
+I build local-first AI tools, practical web and desktop applications, and the
+occasional browser game. Most of these projects are developed in close
+collaboration with coding agents: short feedback loops, real-world use, and
+continuous iteration.
 
-I’m exploring how **AI can help us build software that, in turn,
-uses AI to support humans in thinking, tracking, and decision-making**.
-This includes what I like to call *vibe coding*: fast, iterative,
-curiosity-driven development with AI as a collaborator.
+## What I’m working on
 
-## 🧠 Recent projects
+| Project | What it does |
+| --- | --- |
+| [**open-recall**](https://github.com/rupertgermann/open-recall) | Privacy-focused, local-first personal knowledge management with Ollama, GraphRAG, hybrid vector and graph search, and chat over articles, notes, and PDFs. |
+| [**rowing-tracker**](https://github.com/rupertgermann/rowing-tracker) | Turns SmartRow workout exports into analytics, training plans, achievements, stroke-level insights, and an AI coaching conversation. |
+| [**text-to-typo3**](https://github.com/rupertgermann/text-to-typo3) | A streaming AI chat interface for working with TYPO3 through MCP, using OpenAI or local LM Studio models. |
+| [**ai-image-aura**](https://github.com/rupertgermann/ai-image-aura) | A browser-based studio for AI image generation and editing, with references, cost tracking, and a local archive. |
+| [**image-crawler**](https://github.com/rupertgermann/image-crawler) | A cross-platform CLI and Electron toolkit for collecting, filtering, deduplicating, and downloading images. |
 
-- **open recall**  
-  An experiment in AI-assisted knowledge recall — exploring how
-  ideas, notes, and connections can be resurfaced at the right moment.
+I also use small, complete products to explore different engineering problems:
+[`habit-tracker`](https://github.com/rupertgermann/habit-tracker),
+[`dough-planner-plus`](https://github.com/rupertgermann/dough-planner-plus),
+[`cvesearch`](https://github.com/rupertgermann/cvesearch), and browser games such
+as [`tower-defence`](https://github.com/rupertgermann/tower-defence) and
+[`scrapstorm-squadron`](https://github.com/rupertgermann/scrapstorm-squadron).
 
-- **rowing tracker**  
-  A lightweight rowing workout tracker, designed with simplicity in mind
-  and room for AI-supported insights.
+## Long-running open source
 
-Both projects are built **with AI** and are **about AI** —
-not as a gimmick, but as a practical tool for solving real problems.
+[`tt_news`](https://github.com/rupertgermann/tt_news) is the classic TYPO3 news
+extension I’ve maintained since 2004. Its recent v14 release brings the project
+forward to TYPO3 v14 while preserving a migration path for long-lived sites.
 
-## 🛠 Interests & tools
+## Current interests
 
-- PHP / TYPO3 / MySQL
-- JavaScript (modern ES)
-- APIs & system integration
-- Legacy systems & sustainable evolution
-- AI-assisted development
-- Human-centric AI software
-
-Based in Düsseldorf, Germany.
+- Local-first AI, RAG, knowledge graphs, and agent-assisted software development
+- TypeScript, React, Next.js, Node.js, and PostgreSQL
+- PHP, TYPO3, MySQL, APIs, and system integration
+- Desktop tooling with Electron, Tauri, and Rust
+- Sustainable evolution of legacy systems
+- Human-centered analytics, coaching, and decision-support software
