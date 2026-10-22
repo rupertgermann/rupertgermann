@@ -25,7 +25,8 @@ I also use small, complete products to explore different engineering problems:
 [`habit-tracker`](https://github.com/rupertgermann/habit-tracker),
 [`dough-planner-plus`](https://github.com/rupertgermann/dough-planner-plus),
 [`cvesearch`](https://github.com/rupertgermann/cvesearch), and browser games such
-as [`castle-defense`](https://github.com/rupertgermann/castle-defense) and
+as [`zoo-park-warfare`](https://github.com/rupertgermann/zoo-park-warfare),
+[`castle-defense`](https://github.com/rupertgermann/castle-defense), and
 [`scrapstorm-squadron`](https://github.com/rupertgermann/scrapstorm-squadron).
 
 ## Long-running open source
